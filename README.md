@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YaserAlamin
 - 👀 I’m interested in Java, Python , C++ and MATLAB
 - 🌱 I’m currently learning DB, JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on AI projects and/or ANN
 - 📫 Reach me at https://www.linkedin.com/in/yaser-alamin/
 
 <!---
